@@ -7,12 +7,14 @@ created 3 major components from the google home page and their sub component:
 MenuItems component
 Avatar component
 Icon component
+
 2.Main component: 
-This components include:
+This include:
 GoogleLogo component
 SearchBar component
 Buttons component
 Languages component
+
 3.Footer component: 
 This includes
 Location component
