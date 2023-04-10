@@ -9,7 +9,7 @@ Avatar component
 Icon component
 
 2.Main component: 
-This include:
+This includes:
 GoogleLogo component
 SearchBar component
 Buttons component

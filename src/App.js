@@ -13,5 +13,4 @@ function App() {
   );
 }
 
-export default App;
-Give feedback
+export default App; 
